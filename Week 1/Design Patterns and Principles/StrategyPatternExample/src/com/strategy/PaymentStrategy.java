@@ -1,0 +1,6 @@
+// PaymentStrategy.java
+package com.strategy;
+
+public interface PaymentStrategy {
+    void pay(int amount);
+}
